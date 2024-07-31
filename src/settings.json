@@ -1,0 +1,80 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover a world of flavors delivered right to your office. Join our Food Tour and transform your lunch break into a gourmet experience.",
+        "title": "Elevate Your Workday with Culinary Adventures"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover a world of flavors delivered right to your office. Join our Food Tour and transform your lunch break into a gourmet experience.",
+        "title": "Elevate Your Workday with Culinary Adventures"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Subscribe Now",
+        "description": "Sign up for our newsletter to get the latest updates on our food tours, exclusive's discounts, and insider tips. Be the first to know where and when the next culinary adventure begins!",
+        "emailLabel": "Your ",
+        "heading": "Experience the Best Local Cuisines with Work Food"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover a world of flavors delivered right to your office. Join our Food Tour and transform your lunch break into a gourmet experience.",
+        "title": "Elevate Your Workday with Culinary Adventures"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover a world of flavors delivered right to your office. Join our Food Tour and transform your lunch break into a gourmet experience.",
+        "title": "Elevate Your Workday with Culinary Adventures"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover a world of flavors delivered right to your office. Join our Food Tour and transform your lunch break into a gourmet experience.",
+        "title": "Elevate Your Workday with Culinary Adventures"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover a world of flavors delivered right to your office. Join our Food Tour and transform your lunch break into a gourmet experience.",
+        "title": "Elevate Your Workday with Culinary Adventures"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover a world of flavors delivered right to your office. Join our Food Tour and transform your lunch break into a gourmet experience.",
+        "title": "Elevate Your Workday with Culinary Adventures"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover a world of flavors delivered right to your office. Join our Food Tour and transform your lunch break into a gourmet experience.",
+        "title": "Elevate Your Workday with Culinary Adventures"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover a world of flavors delivered right to your office. Join our Food Tour and transform your lunch break into a gourmet experience.",
+        "title": "Elevate Your Workday with Culinary Adventures"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Elevate Your Workday with Culinary Adventures",
+  "subtitle": "Discover a world of flavors delivered right to your office. Join our Food Tour and transform your lunch break into a gourmet experience."
+}
